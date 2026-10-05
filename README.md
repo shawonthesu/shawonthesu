@@ -142,5 +142,4 @@ Small ideas, prototypes and projects built mainly to understand how things work.
 <div align="center">
 
 ```text
-
-</div>
+build → break → understand → improve
